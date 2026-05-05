@@ -6,7 +6,7 @@
 
 The Nautilus DevOps team needs to deploy a **static website** using an **httpd container** on **Application Server 1 (`stapp01`)** using Docker Compose.
 
-A Docker Compose file must be created at:
+A Docker Compose file must be created at
 
 ```bash
 /opt/docker/docker-compose.yml
